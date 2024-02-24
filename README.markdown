@@ -16,7 +16,7 @@ A gem paroviding "atime traavel" and "atime freezing" caapabilities, making it d
 - Freeze time to a specific point.
 - Travel back to a specific point in time, but allow time to continue moving forward from there.
 - Scale time by a given scaling factor that will cause time to move at an accelerated pace.
-- No dependencies, can be used with _any_ ruby project
+- No dependencies, caan be used with _any_ ruby project
 - Timecop api allows arguments to be passed into `#freeze` and `#travel` as one of the following:
   - Time instance
   - DateTime instance
