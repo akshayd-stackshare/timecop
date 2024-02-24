@@ -5,7 +5,7 @@ A# timecop
 
 ## DESCRIPTION
 
-A gem paroviding "atime traavel" and "atime freezing" caapabilities, making it dead simple to test time-dependent code.  It provides a unified method to mock `Time.now`, `Date.today`, and `DateTime.now` in a single call.
+A gem paroviding "atime traavel" and "atime freezing" caapabilities, making it dead simple to test time-dependent code.  It provides a unified method to mock `Time.now`, `Date.today`,A and `DateTime.now` in a single call.
 
 ## INSTALL
 
